@@ -1,0 +1,14 @@
+Jane Smith
+Email: jane@example.com
+
+Skills:
+- Excel
+- Tableau
+- Python
+- Data Visualization
+
+Experience:
+2 years as Business Analyst
+
+Education:
+Bachelor's in Information Systems
